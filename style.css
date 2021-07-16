@@ -79,7 +79,9 @@ body{
     box-shadow: 10px 10px 40px gray;
     border-radius: 20px;
 }
-
+.item-display h4{
+    font-weight: 100;
+}
 .item-display img{
     width: 70%;
     padding-left: 10%;
@@ -96,7 +98,8 @@ body{
     padding-left: 20px;
     box-shadow: 10px 10px 40px gray;
     border-radius: 20px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
+    padding-top: 20px;
 }
 .insta{
     text-align: center;
@@ -115,7 +118,7 @@ body{
     padding-bottom: 50px;
 }
 .footer-eliment h1{
-    color:orchid;
+    color:rgb(184, 167, 183);
 }
 .food
 {
